@@ -21,7 +21,6 @@ public class Otro_campeonato {
         System.out.print(Jugador);
         System.out.println(Edad);
         
-        String Jugador2 = "Mariano";
        
     }
     
