@@ -20,6 +20,8 @@ public class Otro_campeonato {
         int Edad= 20;
         System.out.print(Jugador);
         System.out.println(Edad);
+        
+        String Jugador2 = "Mariano";
        
     }
     
